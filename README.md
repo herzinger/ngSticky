@@ -1,3 +1,11 @@
+NOTE
+====
+
+*IMPORTANT*: This is an exact fork of [d-oliveros' ngSticky](https://github.com/d-oliveros/ngSticky).
+Go give your love to the original author. I just made this fork because I really needed it in npm, urgently,
+but I don't claim to have done anything in this repository.
+
+
 Angular Sticky
 ==============
 
